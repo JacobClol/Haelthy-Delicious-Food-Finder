@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HaelthyDeliciousFoodFinder</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="label_intro">Welcome to search healthy recipes in english.</string>
+    <string name="image_recipe">Image Recipe</string>
+    <string name="search">Search Recipe</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="ingredients">Ingredients</string>
+</resources>
